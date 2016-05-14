@@ -18,7 +18,7 @@ Beer Version 0
 
 		Q -> µ∫
 		W -> µµ∫
-		R -> µµµµ∫
+		T -> µµµµµ∫
 		...
 
 - Special character:
@@ -37,7 +37,7 @@ Beer Version 0
  
 		µ∫         -> Q
 		µµ∫        -> W
-		µµµµ∫      -> R
+		µµµµµ∫     -> T
 		...
 
 - Special character:
