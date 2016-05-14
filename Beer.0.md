@@ -8,29 +8,39 @@ Beer Version 0
 
 #### Serialization
 - `q-m` MUST be replaced by n-times `BEER` and the final character `∫`:
+
 		q -> BEER∫
-        w -> BEERBEER∫
-        e -> BEERBEERBEER∫
-        ...
+		w -> BEERBEER∫
+		e -> BEERBEERBEER∫
+		...
+
 - `Q-M` except `B`, `E` and `R` MUST be replaced by n-times `µ` and the final character `∫`:
+
 		Q -> µ∫
-        W -> µµ∫
-        R -> µµµµ∫
-        ...
+		W -> µµ∫
+		R -> µµµµ∫
+		...
+
 - Special character:
+
 		. -> BEER-BEER∫
-        , -> BEER_BEER∫
+		, -> BEER_BEER∫
 
 #### Deserialization
 - n-times `BEER` and the final character `∫` MUST be replaced by `q-m`:
+
 		BEER∫      -> q
-        BEERBEER∫  -> w
-        ...
+		BEERBEER∫  -> w
+		...
+
 - n-times `µ` and the final character `∫` MUST be replaced by `Q-M` except `B`, `E` and `R`:
+ 
 		µ∫         -> Q
-        µµ∫        -> W
-        µµµµ∫      -> R
-        ...
+		µµ∫        -> W
+		µµµµ∫      -> R
+		...
+
 - Special character:
+
 		BEER-BEER∫ -> .
-        BEER_BEER∫ -> ,
+		BEER_BEER∫ -> ,
