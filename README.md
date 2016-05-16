@@ -13,7 +13,7 @@ Beer comes in various version, which differ in the characters which are replaced
 - [x] [Beer.php](https://github.com/rauhkrusche/Beer.php)
 - [x] [Beer.NET](https://github.com/DerAtrox/Beer.NET)
 - [x] [Beer.py](https://github.com/rauhkrusche/Beer.py)
-- [x] [Beer.rb](https://github.com/rauhkrusche/Beer.py)
+- [ ] [Beer.rb](https://github.com/rauhkrusche/Beer.py)
 - [ ] C++
 
 
