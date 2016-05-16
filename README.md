@@ -11,10 +11,9 @@ Beer comes in various version, which differ in the characters which are replaced
 
 #### Librarys ####
 - [x] [Beer.php](https://github.com/rauhkrusche/Beer.php)
-  - [Beer.php for Beer 0](https://github.com/rauhkrusche/Beer.php/tree/a5e8fdd23f0c97ca0e206f785675191d708b9c51)
-  - Beer.php for Beer 1 (coming soon)
 - [x] [Beer.NET](https://github.com/DerAtrox/Beer.NET)
-- [ ] Python (*Work in prgoress*)
+- [x] [Beer.py](https://github.com/rauhkrusche/Beer.py)
+- [x] [Beer.rb](https://github.com/rauhkrusche/Beer.py)
 - [ ] C++
 
 
